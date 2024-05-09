@@ -1,4 +1,4 @@
-## NewYorker Automation
+## NewYorker Automation By Dineshkumar
 Automation task for Newyorker website. This repository contains a Java-based automation project using Selenium, Cucumber, JUnit, Apache POI and Maven. The project is designed to perform end-to-end automated testing of a web application.
 
 ## Prerequisites
