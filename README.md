@@ -6,7 +6,7 @@ Before you get started, make sure you have the following installed on your machi
 
 * Java Development Kit (JDK) - Version 8 or higher
 * Apache Maven - Version 3.6.x or higher
-* An Integrated Development Environment (IDE) such as Eclipse or IntelliJ IDEA
+* An Integrated Development Environment (IDE) such as Eclipse
 
 ## Getting Started
 
