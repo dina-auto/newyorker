@@ -10,7 +10,7 @@ import framework.DriverManager;
 /**
  * @author Dineshkumar
  */
-
+//Test for webcheckin using IntelliJ
 public class NYGetMoreClubPage extends DriverManager {
 	// Webelements of Get More Club page
 	public static final By TEXT_IN_IMAGE = By.xpath("//div[2]/div[1]/div/div[1]/h2");
